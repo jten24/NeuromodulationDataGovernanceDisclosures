@@ -1,0 +1,12 @@
+criterion_no,criterion,dimension,total_score,n_score_3
+22,Security Over Time,Data Security,75,25
+8,Privacy by Default,Data Collection Purpose,74,24
+23,Vulnerability Disclosure Program,Data Security,74,24
+2,Transparency Reporting,Transparency,72,22
+1,User Notification About Third-Party Requests,Transparency,69,20
+3,Threat Notification,Transparency,69,19
+20,Known Exploit Resistance,Data Security,68,18
+24,Breach Notification,Breach Notification,66,19
+18,Authentication,Data Security,66,17
+21,Security Oversight,Data Security,66,17
+4,Identity Policy,Transparency,66,16

@@ -1,0 +1,53 @@
+RESULTS SUMMARY - Company Policy scoring matrix
+====================================================================================================
+
+Total scores
+Total scores across the 25 systems ranged from 48 to 67 (mean 53.9, median 53, interquartile range 52-55). The lowest totals were observed for Boston Scientific Vercise Deep Brain Stimulation System (48); SetPoint Medical SetPoint System (49); NeuroPace RNS System (49); Biotronik Prospera SCS System (49); Enterra Medical Enterra Therapy (49), and the highest for Boston Scientific (Valencia) eCoin Peripheral Neurostimulator (67); Synapse Biomedical NeuRx Diaphragm Pacing System (61); Neuros Medical Altius Nerve Stimulation System (61).
+
+Domain means and medians
+Third-party data sharing (mean 1.36, median 1.00) and data collection purpose (mean 1.66, median 1.60) showed the lowest disclosure concern, whereas data security (mean 2.76, median 2.83), transparency (mean 2.76, median 2.75) and breach notification (mean 2.64, median 3.00) showed the highest.
+
+Highest-concern criteria
+The most common high-concern items were Security Over Time (scored 3 in 25 of 25 systems; total 75 of 75); Privacy by Default (scored 3 in 24 of 25 systems; total 74 of 75); Vulnerability Disclosure Program (scored 3 in 24 of 25 systems; total 74 of 75); Transparency Reporting (scored 3 in 22 of 25 systems; total 72 of 75).
+
+Domain statistics (mean / median across systems of each system's domain mean)
+  Transparency               mean 2.76   median 2.75
+  Data Collection Purpose    mean 1.66   median 1.60
+  Data Minimization          mean 2.13   median 2.00
+  User Control and Rights    mean 1.91   median 1.75
+  Third-Party Data Sharing   mean 1.36   median 1.00
+  Data Security              mean 2.76   median 2.83
+  Breach Notification        mean 2.64   median 3.00
+
+Criteria ranked by total score (maximum 75), with number of systems scoring 3
+  22. Security Over Time                               total 75   3s: 25
+   8. Privacy by Default                               total 74   3s: 24
+  23. Vulnerability Disclosure Program                 total 74   3s: 24
+   2. Transparency Reporting                           total 72   3s: 22
+   1. User Notification About Third-Party Requests     total 69   3s: 20
+   3. Threat Notification                              total 69   3s: 19
+  20. Known Exploit Resistance                         total 68   3s: 18
+  24. Breach Notification                              total 66   3s: 19
+  18. Authentication                                   total 66   3s: 17
+  21. Security Oversight                               total 66   3s: 17
+   4. Identity Policy                                  total 66   3s: 16
+  19. Encryption                                       total 65   3s: 18
+  13. Data Control                                     total 60   3s: 10
+  11. User Control Over Data Collection                total 58   3s:  9
+  12. Data Retention                                   total 54   3s:  6
+  16. Data Deletion                                    total 52   3s:  4
+   7. Minimal Data Collection                          total 52   3s:  2
+  10. Purpose Limitation                               total 48   3s:  0
+  15. Data Access                                      total 46   3s:  2
+  17. Data Sharing                                     total 34   3s:  2
+  14. Control Over Targeted Advertising                total 33   3s:  4
+   5. Data Use                                         total 27   3s:  0
+   6. Data Collection                                  total 27   3s:  0
+   9. Data Benefits                                    total 27   3s:  0
+
+Systems by neuromodulation type (systems typed 'SCS, Peripheral' count in both)
+  DBS: n = 3
+  SCS: n = 6
+  VNS: n = 3
+  RNS: n = 1
+  Peripheral: n = 14

@@ -1,0 +1,26 @@
+System,Manufacturer,PMA #,Product Code,Indication,Implant Location,Neuromodulation Type,Sensing Capability (Y/N),Remote Monitoring Capability (Y/N),Remote Monitoring or Programming (Y/N),Patient App (Y/N),App on Patient's Own Phone (Y/N),App on Company-Provided Device (Y/N),Clinician Portal (Y/N),Cloud Upload (Y/N),Data Export Features (Y/N),Patient App Name,Clinician Portal Name,Programmer Type (Dedicated vs Tablet)
+Boston Scientific Vercise Deep Brain Stimulation System,Boston Scientific,P150031,NHL,"Parkinson's disease, essential tremor (DBS)",Brain,DBS,No,ND,ND,Yes,ND,Yes,ND,ND,Yes,Vercise DBS Controller,ND,Tablet
+Medtronic Percept PC/RC,Medtronic,P960009,MHY,"Parkinson's disease, essential tremor, epilepsy, dystonia and OCD under HDE (DBS)",Brain,DBS,No,ND,ND,Yes,No,Yes,ND,ND,Yes,Percept PC/RC Patient Programmer (Samsung smartphone),ND,Tablet
+Abbott Infinity DBS System,Abbott,P140009,MHY,"Parkinson's disease, essential tremor (DBS)",Brain,DBS,No,ND,Yes,Yes,Yes,Yes,ND,Yes,Yes,NeuroSphere Patient Controller app,ND,Tablet
+Medtronic Intellis,Medtronic,P840001,LGW,Chronic pain (SCS),Spine,SCS,Yes,ND,ND,Yes,Yes,Yes,Yes,ND,Yes,MyStim RC ,ND,Tablet
+Boston Scientific (Nalu) Neurostimulation System,Boston Scientific (Nalu),K233801,GZB,Chronic pain (SCS/PNS),Spine/Peripheral nerve,"SCS, Peripheral",No,ND,ND,Yes,Yes,Yes,ND,Yes,Yes,Nalu Remote Control app,ND,Tablet
+Globus Medical (Nevro) Senza SCS System,Globus Medical (Nevro),P130022,LGW,Chronic pain (SCS),Spine,SCS,No,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,HFX app,"HFX Cloud, Nevro healthcare provider portal",Dedicated
+Saluda Medical Evoke SCS System,Saluda Medical,P190002,LGW,Chronic pain (SCS),Spine,SCS,Yes,No,No,No,No,No,ND,ND,ND,N/A,ND,Tablet
+Curonix Freedom SCS/PNS System,Curonix (formerly Stimwave),"K182720 (SCS), K233162 (PNS)","GZB, GZF",Chronic pain (SCS/PNS),Spine/Peripheral nerve,"SCS, Peripheral",No,No,No,No,No,No,No,No,ND,N/A,N/A,Tablet
+Biotronik Prospera SCS System,BIOTRONIK NRO,P210037,LGW,Chronic pain (SCS),Spine,SCS,No,Yes,Yes,Yes,ND,Yes,Yes,Yes,Yes,MyHomeStream (company smartphone),Embrace One Provider Portal,Tablet
+LivaNova VNS Therapy for Epilepsy,LivaNova,P970003,LYJ,Refractory epilepsy,Chest/neck (vagus nerve),VNS,Yes,ND,ND,ND,ND,No,ND,ND,Yes,ND,ND,Tablet
+Mobia Medical Vivistim Paired VNS System,Mobia Medical (previously MicroTransponder),P210007,QPY,Stroke rehabilitation,Chest/neck (vagus nerve),VNS,No,No,No,No,No,No,No,No,Yes,N/A,N/A,Dedicated
+SetPoint Medical SetPoint System,SetPoint Medical,P240039,SFJ,Rheumatoid arthritis,Neck (vagus nerve),VNS,No,ND,ND,No,No,No,ND,Yes,Yes,N/A,ND,Tablet
+NeuroPace RNS System,NeuroPace,P100026,PFN,Epilepsy,Brain,RNS,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,Tablet Remote Monitor,PDMS and nSight Platform,Tablet
+Boston Scientific (Axonics) Sacral Neuromodulation System,Boston Scientific (Axonics),P180046,EZW,Urinary/Bowel Dysfunction (SNM),Pelvic (sacral nerve),Peripheral,No,No,No,Yes,Yes,No,ND,Yes,Yes,myAxonics app,ND,Tablet
+Bioness (Bioventus) StimRouter Neuromodulation System,Bioness (Bioventus),K190047,GZF,Peripheral nerve pain,Peripheral nerve,Peripheral,No,No,No,Yes,Yes,ND,No,No,Yes,StimRouter Plus app,N/A,Tablet
+CVRx BAROSTIM NEO System,CVRx,P180050,DSR,Heart failure,Neck (carotid sinus),Peripheral,No,ND,ND,No,No,No,ND,ND,Yes,N/A,ND,Tablet
+Inspire Medical Inspire V Upper Airway Stimulator,Inspire Medical Systems,P130008,MNQ,Obstructive sleep apnea,Chest/neck (hypoglossal nerve system),Peripheral,Yes,ND,ND,Yes,Yes,No,Yes,Yes,Yes,Inspire Sleep app,Inspire SleepSync (Inspire Cloud),Tablet
+Mainstay Medical ReActiv8 Neurostimulation System,Mainstay Medical,P190021,QLK,Chronic low back pain,Lower back,Peripheral,No,No,No,No,No,No,No,No,Yes,N/A,N/A,Dedicated
+Enterra Medical Enterra Therapy,Enterra Medical,HDE H990014,LNQ,Gastroparesis,Abdomen,Peripheral,No,No,No,No,No,No,No,No,ND,N/A,N/A,Dedicated
+Medtronic InterStim,Medtronic,P970004,EZW,Urinary/Bowel Dysfunction (SNM),Pelvic (sacral nerve),Peripheral,No,ND,ND,Yes,Yes,Yes,ND,Yes,Yes,"MyFuture app (patient phone), Medtronic smart programmer (company device)",ND,Dedicated
+Neuros Medical Altius Nerve Stimulation System,Neuros Medical,P230020,SAZ,Post-amputation pain,Lower limb nerve,Peripheral,No,No,No,No,No,No,No,No,ND,N/A,N/A,Dedicated
+Synapse Biomedical NeuRx Diaphragm Pacing System,Synapse Biomedical,P200018,OIR,Ventilator-dependent high spinal cord injury (diaphragm pacing),Thorax/diaphragm,Peripheral,No,No,No,No,No,No,No,No,ND,N/A,N/A,Dedicated
+Boston Scientific (Valencia) eCoin Peripheral Neurostimulator,Boston Scientific (Valencia Technologies),P200036,QPT,Urinary urgency incontinence,Lower leg/ankle,Peripheral,No,No,No,No,No,No,No,No,ND,N/A,N/A,Dedicated
+ZOLL remedē Phrenic Nerve Stimulator System,ZOLL (Respicardia),P160039,PSR,Central sleep apnea,Chest (phrenic nerve),Peripheral,Yes,No,No,No,No,No,No,No,ND,N/A,N/A,Tablet
+Medtronic (SPR) SPRINT PNS System,SPR Therapeutics (now Medtronic),K240974,SCN (earlier clearances: NHI),Chronic and acute pain (60-day PNS),Peripheral nerve (percutaneous lead),Peripheral,No,ND,ND,No,No,No,ND,ND,Yes,N/A,ND,Tablet

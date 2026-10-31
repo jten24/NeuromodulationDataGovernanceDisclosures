@@ -1,0 +1,26 @@
+Dimension,Criterion,Boston Scientific (Axonics) Sacral Neuromodulation,Boston Scientific Vercise Deep Brain Stimulation,Boston Scientific (Nalu) Neurostimulation,Boston Scientific (Valencia) eCoin Peripheral Neurostimulator,Medtronic Intellis,Medtronic InterStim,Medtronic Percept PC/RC,Medtronic (SPR) SPRINT PNS,Bioness (Bioventus) StimRouter Neuromodulation,CVRx BAROSTIM NEO,LivaNova VNS Therapy for Epilepsy,Inspire Medical Inspire V Upper Airway Stimulator,Mainstay Medical ReActiv8 Neurostimulation,Enterra Medical Enterra Therapy,Mobia Medical Vivistim Paired VNS,NeuroPace RNS,Neuros Medical Altius Nerve Stimulation,Globus Medical (Nevro) Senza SCS,Saluda Medical Evoke SCS,Abbott Infinity DBS,Synapse Biomedical NeuRx Diaphragm Pacing,ZOLL remedē Phrenic Nerve Stimulator,SetPoint Medical SetPoint,Curonix Freedom SCS/PNS,Biotronik Prospera SCS
+Transparency,"1. User Notification About Third-Party Requests: Whether users are informed of data requests by governments or private entities, and if exceptions (e.g., gag orders) are disclosed.",3,2,3,3,3,3,3,3,3,3,3,3,2,1,3,2,3,3,2,3,3,3,3,3,3
+Transparency,"2. Transparency Reporting: Availability of transparency reports detailing request counts, legal justifications, and affected users.",2,2,3,3,3,3,3,3,3,3,3,3,3,2,3,3,3,3,3,3,3,3,3,3,3
+Transparency,"3. Threat Notification: Breach reporting procedures, including prompt notification to authorities and affected users.",3,2,3,3,3,3,3,3,3,2,3,3,3,2,2,2,3,3,3,3,3,3,2,3,3
+Transparency,4. Identity Policy: Whether users can register without presenting government-issued ID.,3,2,3,3,2,2,2,2,3,3,3,3,3,3,3,2,3,3,3,3,3,2,2,3,2
+Data Collection Purpose,5. Data Use: Data is used only for explicitly stated purposes.,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1
+Data Collection Purpose,"6. Data Collection: Clear disclosure of what data is collected, when, and whether third-party sources are involved.",1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1
+Data Collection Purpose,7. Minimal Data Collection: Collection limited to essential data; non-essential permissions can be declined without impairing functionality.,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,3,3,2,2,2,2,2,2,2
+Data Collection Purpose,8. Privacy by Default: Default settings prioritize privacy; targeted advertising is off by default.,3,3,3,3,3,3,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+Data Collection Purpose,9. Data Benefits: Benefits of data collection are clearly disclosed and user-oriented.,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1
+Data Minimization,10. Purpose Limitation: Data is only collected and used for specified purposes.,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1,2,2,2,2,1
+Data Minimization,11. User Control Over Data Collection: Users can restrict data collection while retaining product functionality.,2,3,3,3,2,2,2,2,2,2,2,3,1,2,2,2,3,3,2,3,3,3,2,2,2
+Data Minimization,12. Data Retention: Retention periods are disclosed; unnecessary data is deleted or anonymized.,2,2,3,3,2,2,2,2,2,3,2,2,2,2,2,3,2,2,2,2,3,1,2,3,1
+User Control and Rights,13. Data Control: Users can limit data collection via in-app or account settings.,2,3,3,3,2,2,2,2,2,3,2,3,2,2,2,3,3,2,3,2,3,3,2,2,2
+User Control and Rights,14. Control Over Targeted Advertising: Users can opt out of targeted ad tracking.,1,1,1,3,1,1,1,1,1,1,1,3,1,1,1,1,3,1,3,1,1,1,1,1,1
+User Control and Rights,"15. Data Access: Users can access personal data in a structured, portable format.",1,2,3,3,2,2,2,2,2,2,2,2,1,1,2,1,2,2,2,2,2,2,1,2,1
+User Control and Rights,16. Data Deletion: Users can easily delete personal data; deletion policies are transparent.,1,2,3,3,2,2,2,2,3,2,2,2,2,2,2,2,1,2,2,2,3,2,2,2,2
+Third-Party Data Sharing,"17. Data Sharing: Disclosures about what data is shared, with whom, and why.",1,1,1,3,1,1,1,1,1,1,1,2,1,2,2,2,1,1,1,1,3,1,1,2,1
+Data Security,"18. Authentication: Strong user authentication, including support for multi-factor methods.",3,2,3,3,2,2,2,2,3,3,3,1,3,3,3,2,3,3,3,3,3,3,2,3,3
+Data Security,"19. Encryption: Data is encrypted in transit and at rest, ideally using end-to-end protocols.",2,2,3,3,3,3,3,3,1,2,3,1,3,3,3,3,3,1,3,3,3,3,3,3,2
+Data Security,20. Known Exploit Resistance: Evidence of protection against known vulnerabilities.,3,2,3,3,3,3,3,3,2,2,2,2,3,3,3,2,3,3,2,3,3,3,3,3,3
+Data Security,21. Security Oversight: Internal access controls and third-party audits are in place.,3,3,3,3,3,3,3,2,3,3,3,3,3,3,3,1,2,2,2,3,3,2,2,3,2
+Data Security,22. Security Over Time: Regular updates and communication about product security lifecycle.,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+Data Security,"23. Vulnerability Disclosure Program: Public bug reporting or bounty system, with defined resolution timelines.",3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+Breach Notification,"24. Breach Notification: Clear, timely breach notification process for users and regulators.",3,2,3,3,3,3,3,3,3,1,3,3,3,1,1,2,3,3,3,3,3,3,2,3,3
+,Total score,51,48,60,67,53,53,53,52,52,52,54,55,52,49,53,49,61,54,55,55,61,54,49,57,49

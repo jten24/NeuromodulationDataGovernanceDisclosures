@@ -1,0 +1,26 @@
+device_id,device,1. User Notification About Third-Party Requests,2. Transparency Reporting,3. Threat Notification,4. Identity Policy,5. Data Use,6. Data Collection,7. Minimal Data Collection,8. Privacy by Default,9. Data Benefits,10. Purpose Limitation,11. User Control Over Data Collection,12. Data Retention,13. Data Control,14. Control Over Targeted Advertising,15. Data Access,16. Data Deletion,17. Data Sharing,18. Authentication,19. Encryption,20. Known Exploit Resistance,21. Security Oversight,22. Security Over Time,23. Vulnerability Disclosure Program,24. Breach Notification,total_score
+1,Boston Scientific (Axonics) Sacral Neuromodulation,3,3,3,2,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,71
+3,Boston Scientific Vercise Deep Brain Stimulation,2,3,2,2,3,3,3,3,3,3,3,3,3,3,2,3,3,2,2,2,2,3,2,2,62
+13,Boston Scientific (Nalu) Neurostimulation,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,72
+20,Boston Scientific (Valencia) eCoin Peripheral Neurostimulator,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,72
+9,Medtronic Intellis,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,72
+10,Medtronic InterStim,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,72
+11,Medtronic Percept PC/RC,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,72
+25,Medtronic (SPR) SPRINT PNS,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,72
+2,Bioness (Bioventus) StimRouter Neuromodulation,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,1,3,3,3,3,3,70
+4,CVRx BAROSTIM NEO,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,72
+5,LivaNova VNS Therapy for Epilepsy,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,72
+6,Inspire Medical Inspire V Upper Airway Stimulator,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,72
+7,Mainstay Medical ReActiv8 Neurostimulation,3,3,3,3,3,1,2,3,3,2,2,3,2,3,1,2,3,3,3,3,3,3,3,3,63
+8,Enterra Medical Enterra Therapy,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,72
+12,Mobia Medical Vivistim Paired VNS,3,3,3,3,3,3,3,3,3,3,3,3,3,3,2,3,3,3,3,3,3,3,3,3,71
+14,NeuroPace RNS,3,3,3,2,2,2,3,3,2,2,3,3,3,3,1,3,2,2,3,3,2,3,3,3,62
+15,Neuros Medical Altius Nerve Stimulation,3,3,3,3,3,2,3,3,3,3,3,3,3,3,2,1,3,3,3,3,3,3,3,3,68
+16,Globus Medical (Nevro) Senza SCS,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,1,2,3,3,3,3,69
+17,Saluda Medical Evoke SCS,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,72
+18,Abbott Infinity DBS,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,72
+19,Synapse Biomedical NeuRx Diaphragm Pacing,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,72
+21,ZOLL remedē Phrenic Nerve Stimulator,3,3,3,2,3,1,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,69
+22,SetPoint Medical SetPoint,3,3,2,3,2,1,1,2,2,2,3,2,3,3,3,2,2,2,2,3,3,2,2,2,55
+23,Curonix Freedom SCS/PNS,3,3,3,3,3,2,2,3,3,3,3,3,3,3,3,3,3,2,2,2,3,3,3,3,67
+24,Biotronik Prospera SCS,3,3,3,3,2,2,3,3,2,2,3,3,3,3,3,3,2,3,2,3,3,3,3,3,66
